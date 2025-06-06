@@ -1,0 +1,11 @@
+a person [painting a canvas in a cozy studio filled with natural light, art] supplies scattered on a wooden table || messy studio, unclear painting details, disfigured person, incomplete limbs, disfigured limbs, disfigured face, bad art, bad quality, bland colours, darkness, blood
+a person [kayaking on a calm emerald river surrounded by cliffs and green foliage while wearing a safety vest and a wide rimmed hat], captured as a photograph with great quality and vibrant colours || cloudy water, unnatural reflections, missing paddle, poorly detailed background, poor detail, bad quality, disfigured person, incomplete limbs, disfigured limbs, disfigured face
+
+
+a [steaming cup of espresso with a delicate crema on top, served in a white ceramic cup with a saucer], captured during warm morning sunlight with an airy background, vibrant colours, realistic || spilled coffee, dark image, unrealistic form, cartoonish style
+a [tall glass of red wine] with rich, deep hues, on a wooden table with soft candlelight in the background, captured by photograph in vibrant colours || flat wine color, unbalanced lighting, artificial props
+
+a freshly prepared [gourmet beef burger with melted cheddar cheese, crisp lettuce, ripe tomatoes, pickles, and a toasted sesame seed bun], captured in natural lighting, photographed with a warm inviting background, high detail, vibrant colours || burnt meat, soggy bread and vegetables, plain background, low resolution, unrealistic textures
+a steaming [bowl of japanese ramen with pork chashu, soft-boiled egg, green onions and nory], served in a traditional ceramic bowl, captured as a photograph with a warm inviting background, high detail and vibrant colours || cloudy broth, lack of toppings, cold presentation, cartoonish style
+
+A beautifully composed, realistic illustration of [surfing on a beach at sunset], with vivid details and a dynamic, energetic setting. The environment is depicted in a visually captivating way, emphasizing the waves crashing against the shore and the golden hues of the setting sun. || messy studio, unclear painting details, disfigured person, incomplete limbs, disfigured limbs, disfigured face, bad art, bad quality, bland colours, darkness, blood
